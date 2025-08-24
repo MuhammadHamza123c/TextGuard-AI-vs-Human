@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env
+.venv
+env/
+venv/
+ENV/
+*.env
+
+# Jupyter/IPython checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit / Hugging Face cache
+.streamlit/
+huggingface/
